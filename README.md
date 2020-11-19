@@ -5,7 +5,7 @@ A Cutter plugin to generate radare2 graphs. It also provides a new graph called 
 Please, read the code before using this script/plugin \(it is small, should not take long\). I have not tested it recently.
 
 ## Use
-By default, on Linux, Cutter loads python plugins from $HOME/.local/share/RadareOrg/Cutter/plugins/python. You just need to copy one of the files under the [plugins folder](https://github.com/JavierYuste/radare2-deep-graphs/tree/master/plugin) on that path.
+By default, on Linux, Cutter loads python plugins from $HOME/.local/share/RadareOrg/Cutter/plugins/python. You just need to copy one of the files under the [plugins folder](https://github.com/JavierYuste/radare2-deep-graphs/tree/master/cutter) on that path.
 
 Output format and output path can be specified on the plugin's window. By default, graphs are saved as dot files on the current directory, from where Cutter was launched.
 
